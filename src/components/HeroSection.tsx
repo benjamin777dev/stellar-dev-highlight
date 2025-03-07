@@ -16,7 +16,7 @@ const HeroSection = () => {
           playsInline
           className="absolute w-full h-full object-cover"
         >
-          <source src="https://assets.mixkit.co/videos/preview/mixkit-setting-up-a-custom-computer-close-up-view-41710-large.mp4" type="video/mp4" />
+          <source src="/1.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
       </div>
